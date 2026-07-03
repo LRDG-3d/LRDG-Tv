@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/P-gina-tipo-streaming/', // ← nombre de tu repo
+  base: '/LRDG-Tv/', // ← nombre de tu repo
 })
