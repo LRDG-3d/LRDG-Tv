@@ -62,4 +62,3 @@ rosatv/
 - 💜 Tarjetas de episodios con hover effects
 - 🔔 Toast de notificación al quitar favoritos
 - 🎨 CSS Modules para estilos aislados
-# LRDG-Tv
